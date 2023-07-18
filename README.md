@@ -3,7 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larryurrego/)
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 After a diverse and fun adventure through business ops and managing special projects for global brands and companies, 
 I’ve decided to take my hobby of tinkering with Python and turn it into a career. 
@@ -20,11 +24,12 @@ team leadership.
 
 
 Currently learning and having fun with the following:
-- Java, Assembly (MASM), Python, Swift, HTML, CSS
+- Python, Swift, JavaScript, HTML, CSS Assembly (MASM), Java
+- React.js, Node.js, Express, SQL
 - Git, GitHub, Xcode, VS Code, Visual Studio 
 - Learning Polish! (Already fluent in Spanish)
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=LaUrrego&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaUrrego&theme=" />
 <!---
 LaUrrego/LaUrrego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
